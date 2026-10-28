@@ -1,0 +1,12 @@
+# 本地凭据，不进版本库
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 测试报告产物
+reports/
